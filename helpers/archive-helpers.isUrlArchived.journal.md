@@ -12,6 +12,7 @@ The purpose is to check if the URL has been archived.
 
 ### Step 3: Explanation
 <!--record here -->
+Check if the URL given is inside the archives/site folder. Invoke the callback with a parameter of the results of the check.
 
 ### Step 4: Visualization
 <!--record here -->
