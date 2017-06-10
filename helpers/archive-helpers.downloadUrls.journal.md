@@ -1,8 +1,8 @@
 ### Step 1: Specification
 <!--record here -->
 Input: array (list of URL)
-Output: html file (index html files from every site in the url list)
-Side-effects: Rewriting the archived html files with updated version 
+Output: index.html file (index html files from every site in the url list that is not archived) into the archives site file
+Side-effects: None
 Constraints: None
 edge cases: None
 
@@ -16,6 +16,7 @@ For every URL given we are going to download the corresponding index.html and pu
 
 ### Step 4: Visualization
 <!--record here -->
+
 
 ### Step 5: Approximation
 <!-- record your approximation in the .js file -->
