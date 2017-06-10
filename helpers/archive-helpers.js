@@ -59,6 +59,12 @@ exports.addUrlToList = function(url, callback) {
 };
 
 exports.isUrlArchived = function(url, callback) {
+  // use a FS method on paths archive sites.
+  // check if there is an error
+    // throw an error
+  // else 
+    // check if the url is inside the archive site
+      // callback(boolean)
   
 };
 
