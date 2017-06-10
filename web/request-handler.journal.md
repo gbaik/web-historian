@@ -14,6 +14,7 @@ The user inputs a URL. The request handler will check to see if the url is archi
 
 ### Step 4: Visualization
 <!--record here -->
+https://slack-files.com/T5AF5U5GA-F5R4MU7MX-db3ad2a81e
 
 ### Step 5: Approximation
 <!-- record your approximation in the .js file -->
