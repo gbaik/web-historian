@@ -24,6 +24,8 @@ https://slack-files.com/T5AF5U5GA-F5R57K87J-d9fa861938
 ### Step 6: Verification
 <!-- record your verification here, or, if you use a whiteboard, upload a photo of yoru whiteboard to this folder  -->
 
+We cannot think of an appropriate example. We truely, bigly apologize. 
+
 ### Step 7: Implementation
 <!-- record your implementation in the .js file -->
 
