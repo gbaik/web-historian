@@ -8,6 +8,7 @@ Edge Cases: None
 
 ### Step 2: Justification
 <!--record here -->
+The purpose is to check if the URL has been archived.
 
 ### Step 3: Explanation
 <!--record here -->
