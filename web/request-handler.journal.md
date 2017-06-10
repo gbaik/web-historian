@@ -6,10 +6,11 @@ side effects: None
 
 ### Step 2: Justification
 <!--record here -->
-To direct the user to the correct html file. 
+To direct the user to the archived file or the loading page. 
 
 ### Step 3: Explanation
 <!--record here -->
+The user inputs a URL. The request handler will check to see if the url is archived. If it is archived the output will be the archived page. Otherwise the input url will queue the worker to get the website from the internet and tell the client that the page is loading/come back. 
 
 ### Step 4: Visualization
 <!--record here -->
