@@ -16,7 +16,7 @@ For every given URL that is not in the archived site folder, we are going to dow
 
 ### Step 4: Visualization
 <!--record here -->
-
+https://slack-files.com/T5AF5U5GA-F5RST390C-01d02b5339
 
 ### Step 5: Approximation
 <!-- record your approximation in the .js file -->
