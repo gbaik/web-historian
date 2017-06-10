@@ -80,8 +80,9 @@ exports.isUrlArchived = function(url, callback) {
 };
 
 exports.downloadUrls = function(urls) {
-  // if isUrlArchived is false
-    // creaty empty file with name of the urls to archives.sites  
+  // Iterate through the urls
+    // if isUrlArchived is false
+      // create empty file with name of the url to archives.sites  
 };
 
 

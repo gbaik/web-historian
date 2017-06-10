@@ -24,6 +24,8 @@ https://slack-files.com/T5AF5U5GA-F5RST390C-01d02b5339
 ### Step 6: Verification
 <!-- record your verification here, or, if you use a whiteboard, upload a photo of yoru whiteboard to this folder  -->
 
+['www.example.com', 'www.google.com'], we went through the pseudocode with this example data. 
+
 ### Step 7: Implementation
 <!-- record your implementation in the .js file -->
 
