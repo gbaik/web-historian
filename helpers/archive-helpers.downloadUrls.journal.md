@@ -8,6 +8,7 @@ edge cases: None
 
 ### Step 2: Justification
 <!--record here -->
+To update the archived sites with the list of the urls given.
 
 ### Step 3: Explanation
 <!--record here -->
