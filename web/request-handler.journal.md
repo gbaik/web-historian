@@ -6,6 +6,7 @@ side effects: None
 
 ### Step 2: Justification
 <!--record here -->
+To direct the user to the correct html file. 
 
 ### Step 3: Explanation
 <!--record here -->
