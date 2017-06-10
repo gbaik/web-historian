@@ -80,9 +80,21 @@ exports.isUrlArchived = function(url, callback) {
 };
 
 exports.downloadUrls = function(urls) {
-  // Iterate through the urls
+  var path = this.paths.archivedSites + '/';
+  urls.forEach(url => { 
+    this.isUrlArchived(url, function(exists) { 
     // if isUrlArchived is false
+      if (!exists) {
       // create empty file with name of the url to archives.sites  
+        fs.writeFile((path + url), '', function(err) { 
+          if (err) { 
+            throw err;
+          }
+        });
+      }
+      return;
+    }); 
+  });
 };
 
 
