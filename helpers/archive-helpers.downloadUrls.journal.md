@@ -8,10 +8,11 @@ edge cases: None
 
 ### Step 2: Justification
 <!--record here -->
-To update the archived sites with the list of the urls given.
+To update the archived sites with the list of the URLs given.
 
 ### Step 3: Explanation
 <!--record here -->
+For every URL given we are going to download the corresponding index.html and put it into archive sites folder.
 
 ### Step 4: Visualization
 <!--record here -->
