@@ -22,5 +22,7 @@ https://slack-files.com/T5AF5U5GA-F5R4MU7MX-db3ad2a81e
 ### Step 6: Verification
 <!-- record your verification here, or, if you use a whiteboard, upload a photo of yoru whiteboard to this folder  -->
 
+We weren't sure on how to use verification on our pseudocode for this step. 
+
 ### Step 7: Implementation
 <!-- record your implementation in the .js file -->
