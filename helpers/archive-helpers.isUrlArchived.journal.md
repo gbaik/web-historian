@@ -1,5 +1,10 @@
 ### Step 1: Specification
 <!--record here -->
+Input: URL, and callback function
+Output: Boolean
+Side-effects: None
+Constraints: None
+Edge Cases: None
 
 ### Step 2: Justification
 <!--record here -->
@@ -18,3 +23,7 @@
 
 ### Step 7: Implementation
 <!-- record your implementation in the .js file -->
+
+
+### Notes/Questions? 
+Where does it get invoked? 
