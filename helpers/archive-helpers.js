@@ -60,12 +60,23 @@ exports.addUrlToList = function(url, callback) {
 
 exports.isUrlArchived = function(url, callback) {
   // use a FS method on paths archive sites.
-  // check if there is an error
-    // throw an error
-  // else 
+  //Create path with the given url
+  var path = this.paths.archivedSites + '/' + url;
+
+  fs.stat(path, (err, stat) => { 
     // check if the url is inside the archive site
-      // callback(boolean)
-  
+    // check if there is an error
+    if (err) {
+      //return false if the file doesn't exist
+      if (err.code === 'ENOENT') {
+        callback(false);
+      }
+      //else throw error
+      throw err;
+    } 
+      //return true
+    callback(true);
+  });
 };
 
 exports.downloadUrls = function(urls) {
