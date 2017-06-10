@@ -1,8 +1,10 @@
 ### Step 1: Specification
 <!--record here -->
-input: callback function
-output: 
-effects: 
+Input: array (list of URL)
+Output: html file (index html files from every site in the url list)
+Side-effects: Rewriting the archived html files with updated version 
+Constraints: None
+edge cases: None
 
 ### Step 2: Justification
 <!--record here -->
